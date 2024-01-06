@@ -1,4 +1,4 @@
-# Py Maze
+# PyMaze
 
 Create and generate a maze, and then solve it using matplotlib.
 
